@@ -1,0 +1,8 @@
+language: go
+
+notifications:
+  email:
+    recipients:
+      - peter.waller@gmail.com
+    on_success: always
+    on_failure: always
